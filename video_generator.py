@@ -6,7 +6,7 @@ from moviepy.editor import *
 from moviepy.audio.fx.all import volumex
 import azure.cognitiveservices.speech as speechsdk
 
-# === CONFIGURATION from ENV ===
+# === CONFIGURATION ===
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY")
 SPEECH_KEY = os.getenv("AZURE_SPEECH_KEY")
 REGION = os.getenv("AZURE_REGION")
@@ -19,7 +19,7 @@ IMAGE_COUNT_PER_SCENE = 2
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# === Download images from Pexels ===
+# === Download images ===
 def download_images(query, scene_index, image_dir):
     scene_dir = os.path.join(image_dir, f"scene{scene_index+1}")
     os.makedirs(scene_dir, exist_ok=True)
@@ -42,7 +42,7 @@ def download_images(query, scene_index, image_dir):
 
     print(f"✅ Downloaded {len(photos)} images for '{query}' → {scene_dir}")
 
-# === Generate Telugu TTS using Azure ===
+# === Azure TTS ===
 def generate_tts(text, out_path):
     speech_config = speechsdk.SpeechConfig(subscription=SPEECH_KEY, region=REGION)
     audio_config = speechsdk.audio.AudioOutputConfig(filename=out_path)
@@ -59,7 +59,7 @@ def generate_tts(text, out_path):
     if result.reason != speechsdk.ResultReason.SynthesizingAudioCompleted:
         raise Exception(f"TTS failed: {result.reason}")
 
-# === Process all scene files ===
+# === Process scenes ===
 SCENES_FILES = [f for f in os.listdir(SCENES_DIR) if f.endswith('.json')]
 
 for scene_file in SCENES_FILES:
@@ -79,7 +79,6 @@ for scene_file in SCENES_FILES:
     with open(SCENES_FILE, 'r', encoding='utf-8') as f:
         content = json.load(f)
 
-    # ✅ Extract only the "scenes" array to process
     scenes = content.get("scenes", [])
     if not scenes:
         print(f"⚠️ No scenes found in {scene_file}")
@@ -88,13 +87,13 @@ for scene_file in SCENES_FILES:
     scene_texts = [scene.get('text', '') for scene in scenes]
     full_script = ' '.join(scene_texts)
 
-    print("🖼️ Downloading images from Pexels...")
+    print("🖼️ Downloading images...")
     for idx, scene in enumerate(scenes):
         keyword = scene.get("image_keyword", "")
         if keyword:
             download_images(keyword, idx, IMAGE_DIR)
 
-    print("🔊 Generating TTS from Telugu text...")
+    print("🔊 Generating TTS...")
     generate_tts(full_script, FULL_AUDIO)
     tts_audio = AudioFileClip(FULL_AUDIO)
     total_audio_duration = tts_audio.duration
@@ -103,7 +102,7 @@ for scene_file in SCENES_FILES:
     total_words = sum(scene_word_counts)
     scene_durations = [(count / total_words) * total_audio_duration for count in scene_word_counts]
 
-    print("🎞️ Creating video scenes...")
+    print("🎞️ Creating image-based scene clips...")
     scene_clips = []
     for idx, (scene, duration) in enumerate(zip(scenes, scene_durations)):
         scene_path = os.path.join(IMAGE_DIR, f"scene{idx+1}")
@@ -122,7 +121,6 @@ for scene_file in SCENES_FILES:
             ImageClip(img)
                 .resize(height=1920)
                 .crop(width=1080, height=1920, x_center=540, y_center=960)
-                .set_opacity(0.85)
                 .set_duration(per_img_duration)
                 .set_fps(24)
             for img in images
@@ -131,24 +129,39 @@ for scene_file in SCENES_FILES:
         scene_video = concatenate_videoclips(img_clips).set_duration(duration)
         scene_clips.append(scene_video)
 
-    print("📹 Combining scenes into final video...")
+    print("📹 Combining scenes...")
     video_without_audio = concatenate_videoclips(scene_clips, method="compose").set_duration(tts_audio.duration)
 
-    print("🎬 Adding background video...")
+    # === Overlay background video ===
     overlay_video = VideoFileClip(MUTED_OVERLAY, audio=False)
-    overlay_video = overlay_video.resize(height=1920).crop(width=1080, height=1920, x_center=540, y_center=960)
+
+    # Step 1: Resize by height to 1920 (this makes width > 1080)
+    overlay_video = overlay_video.resize(height=1920)
+
+    # Step 2: Crop width to center-crop to 1080x1920 (portrait)
+    overlay_video = overlay_video.crop(width=1080, x_center=overlay_video.w / 2)
+
+    # Step 3: Loop to match the TTS audio duration
     overlay_video = overlay_video.loop(duration=tts_audio.duration).set_duration(tts_audio.duration)
 
-    final_visual = CompositeVideoClip([overlay_video, video_without_audio.set_position("center")])
+    # Step 4: Set slight opacity to see image scenes over it
+    overlay_video = overlay_video.set_opacity(0.50)
 
-    print("🎵 Merging background music and TTS audio...")
-    bg_music = AudioFileClip(BG_MUSIC).volumex(0.5).audio_loop(duration=tts_audio.duration)
+    # Make image layer semi-transparent
+    image_layer = video_without_audio.set_opacity(0.80).set_position("center")
+
+    # Combine layers
+    final_visual = CompositeVideoClip([overlay_video, image_layer])
+
+    print("🎵 Adding background music + TTS audio...")
+    bg_music = AudioFileClip(BG_MUSIC).volumex(0.4).audio_loop(duration=tts_audio.duration)
     final_audio = CompositeAudioClip([bg_music, tts_audio])
     final_video = final_visual.set_audio(final_audio)
 
-    print(f"💾 Exporting video to: {OUT_VIDEO}")
+    print(f"💾 Saving final video → {OUT_VIDEO}")
     final_video.write_videofile(OUT_VIDEO, codec="libx264", audio_codec="aac", fps=24)
-    print(f"✅ Saved video: {OUT_VIDEO}")
+
+    print(f"✅ Done: {OUT_VIDEO}")
 
     shutil.rmtree(IMAGE_DIR)
     shutil.rmtree(AUDIO_DIR)
