@@ -1,34 +1,34 @@
 {
   "metadata": {
-    "title": "ఆరోగ్యకరమైన, సంతోషకరమైన చర్మం కోసం DIY స్కిన్‌కేర్!",
-    "description": "ఈ షార్ట్ లో ఇంట్లోనే చేసుకోగల స్కిన్‌కేర్ చిట్కాలు! #DIYSkincare #HomemadeRemedies #HealthySkin #BudgetBeauty #SkincareRoutine",
-    "tags": ["telugu", "DIY skincare", "homemade remedies", "skin health", "exfoliation", "toner", "moisturizer"]
+    "title": "మీ డిజిటల్ గోప్యతను కాపాడుకోండి!",
+    "description": "మీ ఆన్‌లైన్ డేటాను సురక్షితంగా ఉంచడానికి కొన్ని ముఖ్యమైన చిట్కాలు! #DigitalPrivacy #CyberSecurity #OnlineSafety #TechSecurity #PrivacyHacks",
+    "tags": ["telugu", "tech tips", "digital privacy", "cyber security", "online safety", "passwords", "two-factor authentication", "VPN"]
   },
   "scenes": [
     {
-      "text": "నమస్కారం! బయటి ప్రోడక్ట్స్ తో పని లేకుండా, మీ ఇంట్లోనే దొరికే వస్తువులతో ఆరోగ్యకరమైన, సంతోషకరమైన చర్మం ఎలా పొందవచ్చో చూద్దాం!",
-      "image_keyword": "natural ingredients skincare",
-      "subtitle": "Greetings! Let's see how you can get healthy, happy skin with ingredients found at home, without needing external products!"
+      "text": "హాయ్ అందరికీ! ఈ డిజిటల్ ప్రపంచంలో మీ ఆన్‌లైన్ గోప్యతను కాపాడుకోవడం చాలా ముఖ్యం. మీ డేటాను సురక్షితంగా ఉంచడానికి కొన్ని చిట్కాలు ఇక్కడ ఉన్నాయి!",
+      "image_keyword": "digital privacy shield icon",
+      "subtitle": "Hi everyone! In this digital world, protecting your online privacy is very important. Here are some tips to keep your data secure!"
     },
     {
-      "text": "మొదటి చిట్కా: ఎక్స్‌ఫోలియేషన్. పంచదార, ఆలివ్ నూనె కలిపి తయారు చేసుకున్న స్క్రబ్‌తో మీ ముఖాన్ని మెల్లగా స్క్రబ్ చేయండి. ఇది మృతకణాలను తొలగించి, చర్మాన్ని మెరిసేలా చేస్తుంది. రామ్ చరణ్ 'రంగస్థలం'లో చెప్పినట్టు, 'నువ్వు రంజుగా చేస్తే, ఫలితం బాగుంటుంది!' అన్నట్టు, స్క్రబ్ రంజుగా చేస్తే, ఫలితం బాగుంటుంది!",
-      "image_keyword": "sugar olive oil scrub",
-      "subtitle": "First tip: Exfoliation. Gently scrub your face with a scrub made by mixing sugar and olive oil. This removes dead skin cells and makes your skin glow. Like Ram Charan said in 'Rangasthalam,' 'If you do it well, the result will be good!' similarly, if you scrub well, the result will be good!"
+      "text": "మొదటి చిట్కా: బలమైన, యూనిక్ పాస్‌వర్డ్‌లను ఉపయోగించండి. సులభంగా ఊహించలేని, అక్షరాలు, సంఖ్యలు, గుర్తులు కలిసిన పాస్‌వర్డ్‌లను సృష్టించండి. ప్రతి అకౌంట్‌కి వేర్వేరు పాస్‌వర్డ్‌లు వాడండి.",
+      "image_keyword": "strong password lock icon",
+      "subtitle": "First tip: Use strong, unique passwords. Create passwords that are hard to guess and include letters, numbers, and symbols. Use different passwords for each account."
     },
     {
-      "text": "రెండో చిట్కా: టోనర్ గా రోజ్ వాటర్. స్క్రబ్ చేసిన తర్వాత, దూదితో రోజ్ వాటర్ ను ముఖంపై అప్లై చేయండి. ఇది చర్మం యొక్క pH బ్యాలెన్స్ ను మెయింటైన్ చేస్తుంది, రంధ్రాలను బిగిస్తుంది. నవీన్ పోలిశెట్టి 'జాతి రత్నాలు'లో చెప్పినట్టు, 'ఎంత దూరం వెళ్లాలో తెలియదు, కానీ టోనర్ తో వెళ్దాం!'",
-      "image_keyword": "rose water spray",
-      "subtitle": "Second tip: Rose water as a toner. After scrubbing, apply rose water to your face with a cotton pad. This maintains the skin's pH balance and tightens pores. Like Naveen Polishetty said in 'Jathi Ratnalu,' 'Don't know how far we'll go, but let's go with toner!'"
+      "text": "రెండో చిట్కా: టూ-ఫ్యాక్టర్ అథెంటికేషన్ (2FA) ఎనేబుల్ చేయండి. మీ పాస్‌వర్డ్ దొంగిలించబడినప్పటికీ, మీ అకౌంట్‌లకు అనధికార యాక్సెస్ జరగకుండా ఇది అదనపు రక్షణను అందిస్తుంది.",
+      "image_keyword": "two-factor authentication phone",
+      "subtitle": "Second tip: Enable Two-Factor Authentication (2FA). Even if your password is stolen, this provides an extra layer of protection against unauthorized access to your accounts."
     },
     {
-      "text": "మూడో చిట్కా: సహజమైన మాయిశ్చరైజర్. అలోవెరా జెల్ లేదా కొద్దిగా కొబ్బరి నూనెను మాయిశ్చరైజర్ గా వాడండి. ఇది చర్మాన్ని మృదువుగా, తేమగా ఉంచుతుంది.",
-      "image_keyword": "aloe vera gel application",
-      "subtitle": "Third tip: Natural moisturizer. Use aloe vera gel or a little coconut oil as a moisturizer. This keeps the skin soft and moisturized."
+      "text": "మూడో చిట్కా: తెలియని లింక్‌లు, ఇమెయిల్‌లపై జాగ్రత్తగా ఉండండి. ఫిషింగ్ స్కామ్‌ల పట్ల అప్రమత్తంగా ఉండండి. అనుమానాస్పద లింక్‌లపై క్లిక్ చేయకండి, వ్యక్తిగత సమాచారాన్ని పంచుకోకండి.",
+      "image_keyword": "phishing email warning",
+      "subtitle": "Third tip: Be cautious of unknown links and emails. Stay vigilant about phishing scams. Do not click on suspicious links or share personal information."
     },
     {
-      "text": "ఈ DIY స్కిన్‌కేర్ పద్ధతులను మీ దినచర్యలో చేర్చుకోండి, ఆరోగ్యకరమైన చర్మాన్ని పొందండి. మరిన్ని ఇలాంటి చిట్కాల కోసం ఛానెల్ ని సబ్స్క్రైబ్ చేయండి!",
-      "image_keyword": "happy healthy skin",
-      "subtitle": "Incorporate these DIY skincare methods into your routine and achieve healthy skin. Subscribe to the channel for more such tips!"
+      "text": "ఈ చిట్కాలను పాటించడం ద్వారా మీ డిజిటల్ గోప్యతను గణనీయంగా పెంచుకోవచ్చు. మరిన్ని సైబర్ సెక్యూరిటీ టిప్స్ కోసం సబ్స్క్రైబ్ చేయండి!",
+      "image_keyword": "cyber security network protection",
+      "subtitle": "By following these tips, you can significantly enhance your digital privacy. Subscribe for more cybersecurity tips!"
     }
   ]
 }
