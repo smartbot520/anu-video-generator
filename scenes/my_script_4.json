@@ -1,34 +1,34 @@
 {
   "metadata": {
-    "title": "బిగినర్స్ కోసం ఈజీ మేకప్ హక్స్!",
-    "description": "ఈ షార్ట్ లో మేకప్ బిగినర్స్ కోసం కొన్ని సింపుల్ టిప్స్! #MakeupHacks #BeginnerMakeup #QuickMakeup #BeautyTips #EasyMakeup",
-    "tags": ["telugu", "makeup", "beginner friendly", "quick makeup", "beauty hacks", "foundation", "kajal", "lipstick"]
+    "title": "డిజిటల్ ఫైల్స్ అద్భుతంగా ఆర్గనైజ్ చేసుకోండి!",
+    "description": "మీ కంప్యూటర్ లో ఫైల్స్ చిందరవందరగా ఉన్నాయా? వాటిని ఆర్గనైజ్ చేయడానికి ఈ టిప్స్ పాటించండి! #DigitalOrganization #FileManagement #CleanDesktop #TechTips #Productivity",
+    "tags": ["telugu", "tech tips", "file organization", "digital declutter", "computer files", "desktop cleanup", "cloud storage"]
   },
   "scenes": [
     {
-      "text": "హలో అందరికీ! మేకప్ అంటే భయం అస్సలు వద్దు! బిగినర్స్ కూడా సులువుగా చేసే కొన్ని మేకప్ హక్స్ ఇక్కడ ఉన్నాయి. అవేంటో చూద్దాం!",
-      "image_keyword": "makeup beginner smiling",
-      "subtitle": "Hello everyone! Don't be afraid of makeup at all! Here are some easy makeup hacks even for beginners. Let's see what they are!"
+      "text": "హాయ్ అందరికీ! మీ కంప్యూటర్ డెస్క్‌టాప్ ఫైల్స్‌తో నిండిపోయిందా? ముఖ్యమైన డాక్యుమెంట్లు ఎక్కడ ఉన్నాయో తెలియట్లేదా? మీ డిజిటల్ ఫైల్స్‌ని ఆర్గనైజ్ చేయడానికి కొన్ని పద్ధతులు ఇక్కడ ఉన్నాయి!",
+      "image_keyword": "messy computer desktop",
+      "subtitle": "Hi everyone! Is your computer desktop full of files? Can't find where your important documents are? Here are some methods to organize your digital files!"
     },
     {
-      "text": "మొదటి హాక్: సరైన బేస్. ఫౌండేషన్ లేదా బీబీ క్రీమ్ మీ చర్మ రంగుకు సరిపోయేలా ఎంచుకోండి. కొద్దిగా అప్లై చేసి, స్పాంజ్ తో లేదా బ్రష్ తో బాగా బ్లెండ్ చేయండి. నాని 'జెర్సీ'లో చెప్పినట్టు, 'గెలుపు కన్నా ప్రయత్నం ముఖ్యం!' అన్నట్టు, మేకప్ లో బ్లెండింగ్ ముఖ్యం!",
-      "image_keyword": "foundation application",
-      "subtitle": "First hack: The right base. Choose a foundation or BB cream that matches your skin tone. Apply a small amount and blend well with a sponge or brush. Like Nani said in 'Jersey,' 'Effort is more important than victory!' similarly, blending is important in makeup!"
+      "text": "మొదటి చిట్కా: ఫోల్డర్‌లను ఉపయోగించండి. 'డాక్యుమెంట్స్', 'పిక్చర్స్', 'వీడియోస్' వంటి కేటగిరీల వారీగా ఫోల్డర్‌లను సృష్టించండి. ప్రతిదీ దాని సంబంధిత ఫోల్డర్‌లోకి తరలించండి.",
+      "image_keyword": "organized file folders on screen",
+      "subtitle": "First tip: Use folders. Create folders by categories like 'Documents', 'Pictures', 'Videos'. Move everything into its respective folder."
     },
     {
-      "text": "రెండో హాక్: కాజల్ తో అందమైన కళ్ళు. కళ్ళకు కాజల్ పెట్టుకునేటప్పుడు, చిన్నగా, స్మూత్ గా రాయండి. బయట నుంచి లోపలికి ఒకే స్ట్రోక్ లో రాయడానికి ప్రయత్నించండి. కళ్ళు పెద్దవిగా, అందంగా కనిపిస్తాయి. విజయ్ దేవరకొండ 'అర్జున్ రెడ్డి'లో చెప్పినట్టు, 'ఒకసారి పడితే, దాని నుంచి బయటపడలేవు!' అన్నట్టు, కాజల్ తో అందం పడితే, బయటపడలేవు!",
-      "image_keyword": "kajal application eye",
-      "subtitle": "Second hack: Beautiful eyes with kajal. When applying kajal to your eyes, draw it small and smoothly. Try to draw it in one stroke from the outer corner to the inner corner. Your eyes will look bigger and more beautiful. Like Vijay Deverakonda said in 'Arjun Reddy,' 'Once you fall, you can't get out of it!' similarly, once you fall for the beauty of kajal, you can't get out of it!"
+      "text": "రెండో చిట్కా: ఫైల్స్‌కి సరైన పేర్లు పెట్టండి. 'Untitled' లేదా 'New Document 1' వంటి పేర్లకు బదులుగా, కంటెంట్‌ను సూచించే స్పష్టమైన పేర్లు ఇవ్వండి. ఉదాహరణకు, 'ప్రాజెక్ట్_రిపోర్ట్_జూలై_2025'.",
+      "image_keyword": "renaming files computer",
+      "subtitle": "Second tip: Name files properly. Instead of names like 'Untitled' or 'New Document 1', give clear names that indicate the content. For example, 'Project_Report_July_2025'."
     },
     {
-      "text": "మూడో హాక్: పెదాలకు లిప్‌స్టిక్. మీ అవుట్‌ఫిట్‌కు తగ్గ లిప్‌స్టిక్ షేడ్ ఎంచుకోండి. లిప్‌స్టిక్ వేసే ముందు పెదాలకు లిప్ బామ్ రాయడం మర్చిపోకండి.",
-      "image_keyword": "lipstick application smile",
-      "subtitle": "Third hack: Lipstick for lips. Choose a lipstick shade that matches your outfit. Don't forget to apply lip balm before applying lipstick."
+      "text": "మూడో చిట్కా: క్లౌడ్ స్టోరేజ్ ఉపయోగించండి. గూగుల్ డ్రైవ్, డ్రాప్‌బాక్స్ లేదా వన్‌డ్రైవ్ వంటి క్లౌడ్ సేవలు మీ ఫైల్స్‌ని సురక్షితంగా ఉంచుతాయి, ఏ డివైస్ నుంచైనా యాక్సెస్ చేసుకోవడానికి అనుమతిస్తాయి.",
+      "image_keyword": "cloud storage icons",
+      "subtitle": "Third tip: Use cloud storage. Cloud services like Google Drive, Dropbox, or OneDrive keep your files secure and allow access from any device."
     },
     {
-      "text": "ఈ సింపుల్ ట్రిక్స్ తో మీరు కూడా అద్భుతంగా కనిపిస్తారు. మరిన్ని మేకప్ టిప్స్ కోసం సబ్స్క్రైబ్ చేసుకోండి!",
-      "image_keyword": "makeup tools on table",
-      "subtitle": "With these simple tricks, you'll also look amazing. Subscribe for more makeup tips!"
+      "text": "ఈ పద్ధతులను పాటించడం వల్ల మీ డిజిటల్ స్పేస్ క్లీన్‌గా, ఆర్గనైజ్డ్‌గా ఉంటుంది. మరిన్ని టెక్ ఆర్గనైజేషన్ టిప్స్ కోసం సబ్స్క్రైబ్ చేయండి!",
+      "image_keyword": "clean computer desktop",
+      "subtitle": "Following these methods will keep your digital space clean and organized. Subscribe for more tech organization tips!"
     }
   ]
 }
