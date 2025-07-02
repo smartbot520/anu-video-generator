@@ -1,34 +1,34 @@
 {
   "metadata": {
-    "title": "మెరిసే చర్మం కోసం - లోపలి నుంచే అందం!",
-    "description": "ఈ షార్ట్ లో మెరిసే చర్మం కోసం కొన్ని ముఖ్యమైన చిట్కాలు! #BeautyTips #GlowingSkin #SkinCare #HealthyLifestyle #TeluguBeauty",
-    "tags": ["telugu", "beauty tips", "glowing skin", "skin care", "healthy lifestyle", "hydration", "diet", "sleep"]
+    "title": "స్మార్ట్‌ఫోన్ బ్యాటరీ లైఫ్ పెంచుకోండి!",
+    "description": "మీ స్మార్ట్‌ఫోన్ బ్యాటరీ ఎక్కువ కాలం ఉండాలంటే ఈ చిట్కాలు పాటించండి! #TechTips #SmartphoneBattery #BatteryHealth #MobileHacks #TechTelugu",
+    "tags": ["telugu", "tech tips", "smartphone", "battery health", "mobile hacks", "android", "iOS", "charging tips"]
   },
   "scenes": [
     {
-      "text": "హాయ్ అందరికీ! మెరిసే, ఆరోగ్యకరమైన చర్మం కావాలంటే, అది కేవలం బయట పూతలతోనే కాదు, లోపలి నుంచి కూడా చూసుకోవాలి. అవును, మీరు విన్నది నిజం!",
-      "image_keyword": "glowing skin woman smiling",
-      "subtitle": "Hi everyone! If you want glowing, healthy skin, it's not just about external applications, but also about taking care of it from within. Yes, you heard that right!"
+      "text": "హాయ్ అందరికీ! మీ స్మార్ట్‌ఫోన్ బ్యాటరీ త్వరగా అయిపోతుందా? బ్యాటరీ లైఫ్ పెంచడానికి కొన్ని ముఖ్యమైన చిట్కాలు ఇక్కడ ఉన్నాయి!",
+      "image_keyword": "smartphone battery icon",
+      "subtitle": "Hi everyone! Does your smartphone battery drain quickly? Here are some important tips to extend battery life!"
     },
     {
-      "text": "మొదటి చిట్కా: హైడ్రేషన్! రోజుకు కనీసం 8-10 గ్లాసుల నీరు తాగండి. ఇది మీ చర్మాన్ని మృదువుగా, తేమగా ఉంచుతుంది. మీ శరీరం నుండి విషపదార్ధాలను బయటకు పంపుతుంది. పవన్ కళ్యాణ్ 'ఖుషి'లో చెప్పినట్టు, 'నువ్వు నడిస్తే, అందం నడుస్తుంది!' అన్నట్టు, నీరు తాగితే, అందం పెరుగుతుంది!",
-      "image_keyword": "drinking water happy",
-      "subtitle": "First tip: Hydration! Drink at least 8-10 glasses of water daily. This keeps your skin soft and moisturized. It flushes out toxins from your body. Just like Pawan Kalyan in 'Kushi' said, 'If you walk, beauty walks!' similarly, if you drink water, beauty increases!"
+      "text": "మొదటి చిట్కా: బ్యాటరీని 20% కంటే తక్కువ, 80% కంటే ఎక్కువ ఛార్జ్ చేయకుండా చూసుకోండి. ఇది బ్యాటరీ యొక్క దీర్ఘాయుష్షును పెంచుతుంది. పూర్తిగా 0% లేదా 100% చేయడం మంచిది కాదు.",
+      "image_keyword": "charging phone 80 percent",
+      "subtitle": "First tip: Try to keep your battery charged between 20% and 80%. This increases the battery's lifespan. Draining it to 0% or charging to 100% is not ideal."
     },
     {
-      "text": "రెండో చిట్కా: సమతుల్య ఆహారం. పండ్లు, కూరగాయలు, నట్స్ మరియు విటమిన్లు సమృద్ధిగా ఉన్న ఆహారం తీసుకోండి. విటమిన్ సి, విటమిన్ ఇ మీ చర్మానికి చాలా మంచివి. ప్రభాస్ 'బాహుబలి'లో చెప్పినట్టు, 'ఒకడు కత్తి పట్టుకుంటే, రెండు ప్రాణాలు పోతాయి... నువ్వు మంచి ఆహారం తింటే, రెండు ప్రాణాలు బతుకుతాయి!'",
-      "image_keyword": "healthy food colorful fruits",
-      "subtitle": "Second tip: Balanced diet. Eat foods rich in fruits, vegetables, nuts, and vitamins. Vitamin C and Vitamin E are very good for your skin. Like Prabhas said in 'Baahubali,' 'If one holds a sword, two lives are lost... if you eat good food, two lives are saved!'"
+      "text": "రెండో చిట్కా: రాత్రంతా ఫోన్‌ని ఛార్జింగ్ పెట్టడం మానుకోండి. ఓవర్‌ఛార్జింగ్ బ్యాటరీకి హానికరం. పడుకునే ముందు లేదా ఉదయం నిద్ర లేవగానే ఛార్జ్ చేయండి.",
+      "image_keyword": "unplug phone charging",
+      "subtitle": "Second tip: Avoid leaving your phone on charge overnight. Overcharging is harmful to the battery. Charge it before bed or first thing in the morning."
     },
     {
-      "text": "మూడో చిట్కా: సరిపడా నిద్ర. కనీసం 7-8 గంటలు నిద్రపోవడం ముఖ్యం. నిద్రలేమి చర్మాన్ని నిర్జీవంగా, అలసటగా కనిపించేలా చేస్తుంది. నిద్రపోతున్నప్పుడు మీ చర్మం రిపేర్ అవుతుంది.",
-      "image_keyword": "person sleeping peacefully",
-      "subtitle": "Third tip: Adequate sleep. It's important to sleep for at least 7-8 hours. Lack of sleep makes your skin look dull and tired. Your skin repairs itself while you sleep."
+      "text": "మూడో చిట్కా: అనవసరమైన యాప్‌లను క్లోజ్ చేయండి. బ్యాక్‌గ్రౌండ్‌లో రన్ అయ్యే యాప్‌లు బ్యాటరీని ఎక్కువగా ఖర్చు చేస్తాయి. రెగ్యులర్‌గా చెక్ చేసి, క్లోజ్ చేయండి.",
+      "image_keyword": "closing background apps",
+      "subtitle": "Third tip: Close unnecessary apps. Apps running in the background consume a lot of battery. Check regularly and close them."
     },
     {
-      "text": "ఈ చిట్కాలను పాటించండి, మీ చర్మం లోపలి నుంచి మెరుస్తుంది. మరిన్ని బ్యూటీ టిప్స్ కోసం సబ్స్క్రైబ్ చేయడం మర్చిపోకండి!",
-      "image_keyword": "subscribe button beauty",
-      "subtitle": "Follow these tips, and your skin will glow from within. Don't forget to subscribe for more beauty tips!"
+      "text": "ఈ సింపుల్ టిప్స్ పాటించండి, మీ స్మార్ట్‌ఫోన్ బ్యాటరీ ఎక్కువ కాలం ఆరోగ్యంగా ఉంటుంది. మరిన్ని టెక్ టిప్స్ కోసం సబ్స్క్రైబ్ చేయండి!",
+      "image_keyword": "healthy battery green icon",
+      "subtitle": "Follow these simple tips, and your smartphone battery will stay healthy for longer. Subscribe for more tech tips!"
     }
   ]
 }
