@@ -1,5 +1,38 @@
 {
   "metadata": {
+    "title": "సాధారణ టెక్ సమస్యలకు ప్రాథమిక పరిష్కారాలు!",
+    "description": "మీ డివైజ్‌లు పనిచేయడం లేదని వెంటనే కంగారుపడకండి! కొన్ని ప్రాథమిక ట్రబుల్ షూటింగ్ చిట్కాలు ఇక్కడ ఉన్నాయి! #Troubleshooting #TechFixes #CommonIssues #TechSupport #DIYTech",
+    "tags": ["telugu", "tech tips", "troubleshooting", "tech support", "computer problems", "phone issues", "reboot", "restart"]
+  },
+  "scenes": [
+    {
+      "text": "హాయ్ అందరికీ! మీ ఫోన్ ఫ్రీజ్ అయ్యిందా? కంప్యూటర్ స్లోగా ఉందా? వెంటనే టెక్నీషియన్ దగ్గరికి వెళ్లకుండా, ముందు ఈ ప్రాథమిక ట్రబుల్ షూటింగ్ చిట్కాలు ప్రయత్నించండి!",
+      "image_keyword": "frustrated with tech problems",
+      "subtitle": "Hi everyone! Is your phone frozen? Is your computer slow? Before rushing to a technician, try these basic troubleshooting tips!"
+    },
+    {
+      "text": "మొదటి చిట్కా: 'రీస్టార్ట్' చేయండి. చాలా సాధారణ సమస్యలు కేవలం డివైజ్‌ని రీస్టార్ట్ చేయడం ద్వారా పరిష్కరించబడతాయి. ఇది సిస్టమ్‌ని రీఫ్రెష్ చేస్తుంది.",
+      "image_keyword": "restart computer button",
+      "subtitle": "First tip: 'Restart'. Many common problems can be solved by simply restarting the device. This refreshes the system."
+    },
+    {
+      "text": "రెండో చిట్కా: కేబుల్స్, కనెక్షన్‌లు చెక్ చేయండి. నెట్‌వర్క్ సమస్యలు, ప్రింటర్ సమస్యలు వంటివి తరచుగా లూజ్ కనెక్షన్‌ల వల్ల వస్తాయి. అన్ని కేబుల్స్ సరిగ్గా ఉన్నాయో లేదో చూసుకోండి.",
+      "image_keyword": "checking cables computer",
+      "subtitle": "Second tip: Check cables and connections. Network issues, printer problems, etc., are often caused by loose connections. Make sure all cables are properly connected."
+    },
+    {
+      "text": "మూడో చిట్కా: సాఫ్ట్‌వేర్ అప్‌డేట్‌లు. మీ ఆపరేటింగ్ సిస్టమ్, యాప్‌లు మరియు డ్రైవర్‌లు అప్‌డేటెడ్‌గా ఉన్నాయో లేదో చెక్ చేయండి. అప్‌డేట్‌లు బగ్ ఫిక్స్‌లు, పనితీరు మెరుగుదలలను అందిస్తాయి.",
+      "image_keyword": "software update icon",
+      "subtitle": "Third tip: Software updates. Check if your operating system, apps, and drivers are updated. Updates provide bug fixes and performance improvements."
+    },
+    {
+      "text": "ఈ ప్రాథమిక టిప్స్‌తో చాలా టెక్ సమస్యలను మీరే పరిష్కరించుకోవచ్చు. మరిన్ని టెక్ ఫిక్స్ టిప్స్ కోసం సబ్స్క్రైబ్ చేయండి!",
+      "image_keyword": "person fixing computer",
+      "subtitle": "With these basic tips, you can solve many tech problems yourself. Subscribe for more tech fix tips!"
+    }
+  ]
+}{
+  "metadata": {
     "title": "డిజిటల్ ఫైల్స్ అద్భుతంగా ఆర్గనైజ్ చేసుకోండి!",
     "description": "మీ కంప్యూటర్ లో ఫైల్స్ చిందరవందరగా ఉన్నాయా? వాటిని ఆర్గనైజ్ చేయడానికి ఈ టిప్స్ పాటించండి! #DigitalOrganization #FileManagement #CleanDesktop #TechTips #Productivity",
     "tags": ["telugu", "tech tips", "file organization", "digital declutter", "computer files", "desktop cleanup", "cloud storage"]
