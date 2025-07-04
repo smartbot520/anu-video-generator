@@ -1,5 +1,38 @@
 {
   "metadata": {
+    "title": "నోటిఫికేషన్స్ కంట్రోల్ చేయండి: ఫోకస్ పెంచుకోండి!",
+    "description": "డిస్ట్రాక్షన్ లేకుండా ఫోకస్డ్‌గా ఉండాలంటే నోటిఫికేషన్స్‌ని ఎలా మేనేజ్ చేయాలో తెలుసుకోండి! #NotificationManagement #DigitalWellbeing #FocusHacks #TechProductivity #ReduceDistractions",
+    "tags": ["telugu", "tech tips", "notifications", "digital wellbeing", "focus", "productivity", "smartphone settings", "do not disturb"]
+  },
+  "scenes": [
+    {
+      "text": "హాయ్ అందరికీ! మీ ఫోన్ నోటిఫికేషన్లతో నిరంతరం మిమ్మల్ని డిస్టర్బ్ చేస్తుందా? వాటిని కంట్రోల్ చేసి, మీ ఫోకస్‌ని పెంచుకోవడం ఎలాగో చూద్దాం!",
+      "image_keyword": "phone with many notifications",
+      "subtitle": "Hi everyone! Is your phone constantly disturbing you with notifications? Let's see how to control them and increase your focus!"
+    },
+    {
+      "text": "మొదటి చిట్కా: అనవసరమైన యాప్‌ల నోటిఫికేషన్స్‌ని ఆఫ్ చేయండి. మీ సెట్టింగ్స్‌లోకి వెళ్లి, మీరు తరచుగా వాడని లేదా ముఖ్యంగా లేని యాప్‌ల నోటిఫికేషన్స్‌ని డిసేబుల్ చేయండి.",
+      "image_keyword": "turning off app notifications",
+      "subtitle": "First tip: Turn off notifications for unnecessary apps. Go into your settings and disable notifications for apps you don't use often or aren't important."
+    },
+    {
+      "text": "రెండో చిట్కా: 'డోంట్ డిస్టర్బ్' మోడ్ ఉపయోగించండి. పని చేస్తున్నప్పుడు లేదా చదువుకుంటున్నప్పుడు 'డోంట్ డిస్టర్బ్' మోడ్‌ని ఆన్ చేయండి. ముఖ్యమైన కాల్స్‌కి మాత్రం మినహాయింపు ఇవ్వవచ్చు.",
+      "image_keyword": "do not disturb icon phone",
+      "subtitle": "Second tip: Use 'Do Not Disturb' mode. Turn on 'Do Not Disturb' mode while working or studying. You can set exceptions for important calls."
+    },
+    {
+      "text": "మూడో చిట్కా: నోటిఫికేషన్ షెడ్యూల్‌లు సెట్ చేయండి. కొన్ని యాప్‌ల నోటిఫికేషన్స్‌ని నిర్దిష్ట సమయాల్లో మాత్రమే వచ్చేలా షెడ్యూల్ చేయవచ్చు. ఇది మీ డిజిటల్ వెల్‌బీయింగ్‌కు సహాయపడుతుంది.",
+      "image_keyword": "notification schedule settings",
+      "subtitle": "Third tip: Set notification schedules. You can schedule notifications for some apps to arrive only at specific times. This helps with your digital wellbeing."
+    },
+    {
+      "text": "ఈ చిట్కాలను పాటించి, డిజిటల్ డిస్ట్రాక్షన్స్‌ని తగ్గించుకోండి, మీ పనితీరును మెరుగుపరుచుకోండి! మరిన్ని టెక్ టిప్స్ కోసం సబ్స్క్రైబ్ చేయండి!",
+      "image_keyword": "person focused on laptop",
+      "subtitle": "Follow these tips to reduce digital distractions and improve your performance! Subscribe for more tech tips!"
+    }
+  ]
+}{
+  "metadata": {
     "title": "ఉత్పాదకత పెంచే కీబోర్డ్ షార్ట్‌కట్‌లు!",
     "description": "మీ పనిని వేగవంతం చేయడానికి కొన్ని తప్పనిసరి కీబోర్డ్ షార్ట్‌కట్‌లు నేర్చుకోండి! #KeyboardShortcuts #ProductivityHacks #TechProductivity #WorkSmart #ComputerTips",
     "tags": ["telugu", "tech tips", "keyboard shortcuts", "productivity", "computer hacks", "Windows", "Mac", "work efficiency"]
