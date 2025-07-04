@@ -1,5 +1,38 @@
 {
   "metadata": {
+    "title": "మీ ఫోన్/కంప్యూటర్ స్టోరేజ్ పెంచుకోండి!",
+    "description": "మీ డివైజ్‌లో స్టోరేజ్ నిండిపోయిందా? ఖాళీ చేయడానికి ఈ సింపుల్ హక్స్ ప్రయత్నించండి! #StorageTips #FreeUpSpace #TechHacks #DigitalCleanup #DeviceOptimization",
+    "tags": ["telugu", "tech tips", "storage space", "phone storage", "computer storage", "digital cleanup", "cache", "downloads"]
+  },
+  "scenes": [
+    {
+      "text": "హాయ్ అందరికీ! మీ ఫోన్ లేదా కంప్యూటర్ లో 'స్టోరేజ్ ఫుల్' అని వస్తుందా? స్టోరేజ్ ఖాళీ చేయడానికి కొన్ని సులభమైన మార్గాలు ఇక్కడ ఉన్నాయి!",
+      "image_keyword": "storage full warning phone",
+      "subtitle": "Hi everyone! Is your phone or computer showing 'Storage Full'? Here are some easy ways to free up storage!"
+    },
+    {
+      "text": "మొదటి చిట్కా: అనవసరమైన యాప్‌లు, ప్రోగ్రామ్‌లను తొలగించండి. మీరు వాడని యాప్‌లను అన్‌ఇన్‌స్టాల్ చేయండి. ఇవి మీ డివైజ్ లో చాలా స్థలాన్ని ఆక్రమిస్తాయి.",
+      "image_keyword": "uninstalling apps on phone",
+      "subtitle": "First tip: Delete unnecessary apps and programs. Uninstall apps you don't use. They take up a lot of space on your device."
+    },
+    {
+      "text": "రెండో చిట్కా: డౌన్‌లోడ్స్ ఫోల్డర్‌ని క్లీన్ చేయండి. మనం చాలా ఫైల్స్ డౌన్‌లోడ్ చేస్తాం కానీ వాటిని మరచిపోతాం. మీ డౌన్‌లోడ్స్ ఫోల్డర్‌ని రెగ్యులర్‌గా చెక్ చేసి, అనవసరమైన వాటిని డిలీట్ చేయండి.",
+      "image_keyword": "downloads folder clean up",
+      "subtitle": "Second tip: Clean up your Downloads folder. We download many files but often forget about them. Regularly check your Downloads folder and delete unnecessary ones."
+    },
+    {
+      "text": "మూడో చిట్కా: క్యాష్ డేటాను క్లియర్ చేయండి. బ్రౌజర్‌లు, యాప్‌లు మరియు ఆపరేటింగ్ సిస్టమ్‌లో పేరుకుపోయే క్యాష్ డేటాను క్లియర్ చేయడం వల్ల గణనీయమైన స్థలం ఖాళీ అవుతుంది.",
+      "image_keyword": "clear cache settings phone",
+      "subtitle": "Third tip: Clear cache data. Clearing cached data accumulated in browsers, apps, and the operating system can free up significant space."
+    },
+    {
+      "text": "ఈ చిట్కాలను పాటించండి, మీ డివైజ్ స్టోరేజ్‌ని ఆప్టిమైజ్ చేసుకోండి. మరిన్ని టెక్ టిప్స్ కోసం సబ్స్క్రైబ్ చేయండి!",
+      "image_keyword": "empty storage drive",
+      "subtitle": "Follow these tips to optimize your device's storage. Subscribe for more tech tips!"
+    }
+  ]
+}{
+  "metadata": {
     "title": "ఇంట్లో వైఫై స్పీడ్ పెంచండి!",
     "description": "మీ ఇంట్లో వైఫై సిగ్నల్ బలహీనంగా ఉందా? స్పీడ్ పెంచడానికి ఈ హక్స్ ప్రయత్నించండి! #WiFiTips #InternetSpeed #TechHacks #HomeNetwork #Connectivity",
     "tags": ["telugu", "tech tips", "Wi-Fi", "internet speed", "router", "network optimization", "home network"]
