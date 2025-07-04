@@ -1,5 +1,38 @@
 {
   "metadata": {
+    "title": "స్మార్ట్‌ఫోన్ కెమెరా టిప్స్: అద్భుతమైన ఫోటోలు తీయండి!",
+    "description": "మీ స్మార్ట్‌ఫోన్‌తోనే ప్రొఫెషనల్ ఫోటోలు తీయాలంటే ఈ టిప్స్ తెలుసుకోండి! #SmartphonePhotography #MobileCamera #PhotoHacks #TechTips #BetterPhotos",
+    "tags": ["telugu", "tech tips", "smartphone camera", "photography tips", "mobile photography", "photo hacks", "camera settings"]
+  },
+  "scenes": [
+    {
+      "text": "హాయ్ అందరికీ! మీ స్మార్ట్‌ఫోన్ కెమెరాతో మరింత మెరుగైన ఫోటోలు తీయాలనుకుంటున్నారా? కొన్ని సింపుల్ టిప్స్ తో మీ ఫోటోగ్రఫీ స్కిల్స్‌ని మెరుగుపరుచుకోండి!",
+      "image_keyword": "person taking photo with smartphone",
+      "subtitle": "Hi everyone! Want to take better photos with your smartphone camera? Improve your photography skills with these simple tips!"
+    },
+    {
+      "text": "మొదటి చిట్కా: మంచి లైటింగ్ ఉపయోగించండి. సహజ కాంతి ఫోటోలకు ఉత్తమమైనది. సూర్యరశ్మి మీ వెనుక కాకుండా, ఫోటో తీస్తున్న సబ్జెక్ట్ ముందు లేదా పక్కన ఉండేలా చూసుకోండి.",
+      "image_keyword": "golden hour photography",
+      "subtitle": "First tip: Use good lighting. Natural light is best for photos. Make sure the sunlight is in front of or beside your subject, not behind you."
+    },
+    {
+      "text": "రెండో చిట్కా: 'రూల్ ఆఫ్ థర్డ్స్' పాటించండి. మీ కెమెరా గ్రిడ్ లైన్స్‌ని ఆన్ చేయండి. సబ్జెక్ట్‌ని గ్రిడ్ లైన్స్‌ కలిసే చోట లేదా వాటి వెంట ఉంచడం వల్ల ఫోటో మరింత ఆకర్షణీయంగా ఉంటుంది.",
+      "image_keyword": "rule of thirds grid on phone",
+      "subtitle": "Second tip: Follow the 'Rule of Thirds'. Turn on your camera's grid lines. Placing the subject where grid lines intersect or along them makes the photo more appealing."
+    },
+    {
+      "text": "మూడో చిట్కా: ప్రొ మోడ్ లేదా అడ్వాన్స్‌డ్ సెట్టింగ్స్ వాడండి. ISO, షట్టర్ స్పీడ్, వైట్ బ్యాలెన్స్ వంటి సెట్టింగ్‌లను ప్రయోగాత్మకంగా మార్చడం ద్వారా అద్భుతమైన ఫలితాలు పొందవచ్చు.",
+      "image_keyword": "smartphone camera pro mode",
+      "subtitle": "Third tip: Use Pro Mode or advanced settings. Experimenting with settings like ISO, shutter speed, and white balance can yield amazing results."
+    },
+    {
+      "text": "ఈ టిప్స్‌తో మీ స్మార్ట్‌ఫోన్ ఫోటోగ్రఫీని నెక్స్ట్ లెవల్‌కి తీసుకెళ్లండి! మరిన్ని టెక్ టిప్స్ కోసం సబ్స్క్రైబ్ చేయండి!",
+      "image_keyword": "beautiful smartphone photo landscape",
+      "subtitle": "Take your smartphone photography to the next level with these tips! Subscribe for more tech tips!"
+    }
+  ]
+}{
+  "metadata": {
     "title": "స్మార్ట్‌ఫోన్ బ్యాటరీ లైఫ్ పెంచుకోండి!",
     "description": "మీ స్మార్ట్‌ఫోన్ బ్యాటరీ ఎక్కువ కాలం ఉండాలంటే ఈ చిట్కాలు పాటించండి! #TechTips #SmartphoneBattery #BatteryHealth #MobileHacks #TechTelugu",
     "tags": ["telugu", "tech tips", "smartphone", "battery health", "mobile hacks", "android", "iOS", "charging tips"]
